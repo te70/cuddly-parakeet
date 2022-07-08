@@ -17,5 +17,5 @@ Storybook is a web application that allows users to upload stories and view stor
 
 **Client:** Express-handlebars, Materialize, FontAwesome, CKEDITOR
 
-**Server:** Node, Express, Mongo, Moment, Mongoose, Passport, passport, Nodemon 
+**Server:** Node, Express, Mongo, Moment, Mongoose, Passport, Nodemon 
 
